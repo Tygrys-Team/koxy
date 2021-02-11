@@ -1,0 +1,2 @@
+print("Powinno dzialac")
+
